@@ -1,3 +1,6 @@
+![Progress](https://img.shields.io/badge/Progression-100%25-red)
+
+
 This project demonstrates how to build a chatbot agent using the Hugging Face Hub Inference API. The chatbot interacts with users in natural language, remembers previous context, and follows a defined system prompt to behave as a friendly, helpful AI assistant.
 
 📌 Features
